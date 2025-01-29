@@ -1,2 +1,2 @@
 # chatbot
-Chatbot using bard
+Chatbot using a Gemini model
